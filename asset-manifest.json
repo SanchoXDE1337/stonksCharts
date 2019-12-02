@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/stonksCharts/static/css/main.13e1de07.chunk.css",
+    "main.css": "/stonksCharts/static/css/main.95e0b4fd.chunk.css",
     "main.js": "/stonksCharts/static/js/main.c6f0b30c.chunk.js",
     "main.js.map": "/stonksCharts/static/js/main.c6f0b30c.chunk.js.map",
     "runtime-main.js": "/stonksCharts/static/js/runtime-main.e4a38e05.js",
@@ -8,14 +8,14 @@
     "static/js/2.aff721e6.chunk.js": "/stonksCharts/static/js/2.aff721e6.chunk.js",
     "static/js/2.aff721e6.chunk.js.map": "/stonksCharts/static/js/2.aff721e6.chunk.js.map",
     "index.html": "/stonksCharts/index.html",
-    "precache-manifest.83e942a4ccbf8ece246c379415d54a09.js": "/stonksCharts/precache-manifest.83e942a4ccbf8ece246c379415d54a09.js",
+    "precache-manifest.6d9838442f456204a5cae29499db35bf.js": "/stonksCharts/precache-manifest.6d9838442f456204a5cae29499db35bf.js",
     "service-worker.js": "/stonksCharts/service-worker.js",
-    "static/css/main.13e1de07.chunk.css.map": "/stonksCharts/static/css/main.13e1de07.chunk.css.map"
+    "static/css/main.95e0b4fd.chunk.css.map": "/stonksCharts/static/css/main.95e0b4fd.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.e4a38e05.js",
     "static/js/2.aff721e6.chunk.js",
-    "static/css/main.13e1de07.chunk.css",
+    "static/css/main.95e0b4fd.chunk.css",
     "static/js/main.c6f0b30c.chunk.js"
   ]
 }
